@@ -1,1 +1,4 @@
 demo line 1 for commit 1
+demo line 2 for commit 2
+demo line 3 for next commit
+
